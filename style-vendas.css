@@ -1,0 +1,122 @@
+.div1 {
+    padding: 40px 20px;
+    text-align: center;
+    color:  #284207;
+    font-size: 17px;
+}
+
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.produtos li {
+	display: inline-block;
+	text-align: center;
+    background-color: #284207;
+	width: 34%;
+	height: 340px;
+	vertical-align: top;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #284207;
+	color: #FFFFFF;
+	border-radius: 10px;
+}
+
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.produto-descricao {
+	font-size: 18px;
+	margin-top: 60px;
+}
+
+.botao-whatsapp {
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 16px;
+	color: white;
+	background-color: #941515;
+	border: none;
+	border-radius: 43px;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 40px;
+}
+
+.botao-home {
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 16px;
+	color: white;
+	background-color: #941515;
+	border: none;
+	border-radius: 43px;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+.div2 {
+	padding: 40px 20px;
+    text-align: center;
+    background-color:  #284207;
+    color:  #ffffff;
+    font-size: 30px;
+	margin-top: 120px;
+}
+
+.homem{
+	left: 260px;
+	position: relative;
+	top: 150px;
+}
+
+.tituloH {
+	color: #000000;
+    left: 1100px;
+    bottom: 290px;
+    position: relative;
+    font-size: 30px;
+}
+
+.texto1 {
+	width: 617px;
+    height: 195px;
+    text-align: center;
+    color: #333;
+    font-size: 25px;
+    font-weight: 400;
+    display: inline-block;
+    position: relative;
+    left: 950px;
+    bottom: 240px;
+}
+
+.bola1 {
+	position: relative;
+	left: 900px;
+	top: 100px;
+}
+
+.bola2 {
+	position: relative;
+	right: 190px;
+	bottom: 100px;
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
